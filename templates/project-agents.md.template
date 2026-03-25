@@ -1,0 +1,57 @@
+> **项目配置说明**: 这是 {{PROJECT_NAME}} 项目的专属开发规范。通用开发规范（Python 风格、Git 规范、测试标准、安全规范等）请参考 [全局开发规范](../../AGENTS.md)。
+
+# {{PROJECT_NAME}} 开发规范
+
+## 项目概述
+
+{{PROJECT_DESCRIPTION}}
+
+## 代码规范
+
+### 技术栈
+- Python 版本：{{PYTHON_VERSION}}
+- 包管理：{{PACKAGE_MANAGER}}
+- 框架：{{FRAMEWORK}}
+
+### 框架最佳实践
+
+{{FRAMEWORK_BEST_PRACTICES}}
+
+## 项目结构
+
+```
+{{PROJECT_STRUCTURE}}
+```
+
+## 数据库集成
+
+{{DATABASE_INTEGRATION}}
+
+## 开发流程
+
+### 概述
+1. 查看 GitHub Issues 待办任务
+2. 创建 feature worktree 开始开发
+3. 实现功能、添加测试
+4. Code review 和合并
+
+## 常用命令
+
+```bash
+{{COMMON_COMMANDS}}
+```
+
+## 故障排除
+
+### 常见问题
+{{TROUBLESHOOTING}}
+
+## Skills 使用指南
+
+### 已安装的 Skills
+
+{{SKILLS_LIST}}
+
+## 参考资源
+
+{{REFERENCES}}

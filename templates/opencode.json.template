@@ -1,0 +1,11 @@
+{
+  "compaction": {
+    "auto": true,
+    "strategy": "summarize",
+    "threshold": 0.8,
+    "prune_tool_outputs": true
+  },
+  "plugin": ["oh-my-openagent"],
+  "$schema": "https://opencode.ai/config.json",
+  "permission": "allow"
+}
