@@ -175,7 +175,7 @@ fi
 
 # Execute
 if [[ -n "$MODE" ]]; then
-    log_info "开始安装全局配置（模式: $MODE）..."
+    log_info "开始安装全局配置（模式: ${MODE}）..."
     if [[ "$MODE" == "link" ]]; then
         install_global_link
     else
