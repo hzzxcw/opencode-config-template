@@ -114,4 +114,4 @@ bash ~/opencode-config-template/scripts/setup-project.sh --link-global --backup
 
 ## 许可证
 
-私有仓库，仅供个人使用。
+[MIT License](LICENSE)
